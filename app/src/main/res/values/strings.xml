@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Погода у Львові</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_weather">Оновити погоду</string>
+</resources>
