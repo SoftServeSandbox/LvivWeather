@@ -9,11 +9,11 @@
         android:layout_height="match_parent"
         android:contentDescription="@null"
         android:scaleType="centerCrop"
-        android:src="@drawable/lviv" />
+        android:src="@drawable/lviv_img" />
 
     <Button
         android:id="@+id/showWeather"
-        android:layout_width="match_parent"
+        android:layout_width="100dp"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
